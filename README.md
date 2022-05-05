@@ -9,7 +9,7 @@ Este projeto foi criado com o objetivo de colocar em prática os conhecimentos a
 
 ## Screenshots 📷
 
-Resultado da página:
+Resultado da página / responsividade:
 
 ![App Screenshot](./img/screenshot.png)
 
